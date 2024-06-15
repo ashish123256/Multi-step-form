@@ -13,7 +13,7 @@
 Clone the project
 
 ```bash
-  git clone git remote add origin https://github.com/ashish123256/Multi-step-form.git
+  git clone https://github.com/ashish123256/Multi-step-form.git
 
 ```
 
